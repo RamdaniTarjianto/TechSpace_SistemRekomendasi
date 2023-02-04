@@ -1,13 +1,10 @@
 # Progress TechSpace Media
-#
+
 #### Nama   : Ramdani Tarjianto
 #### Role  : Data Scientist
-#
 
 #### MEMBUAT SISTEM REKOMENDASI ARTIKEL BERDASARKAN PREVERENSI PENGGUNA
-#
-#
-#
+
 #### Yang dilakukan:
  1. Data Collection
  2. Data Extraction
