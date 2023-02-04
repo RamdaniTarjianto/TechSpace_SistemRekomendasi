@@ -22,6 +22,7 @@ Berikut adalah kumpulan file yang diperoleh melalui proses pengumpulan data:
 ![hasil data collection](https://raw.githubusercontent.com/RamdaniTarjianto/TechSpace_SistemRekomendasi/master/images/hasil%20data%20collection.PNG)
 
 ![hasil data collection](https://raw.githubusercontent.com/RamdaniTarjianto/TechSpace_SistemRekomendasi/master/images/gambar%20plot.png)
+
 Dalam tahapan pengumpulan data, saya menggunakan library python BeautifulSoup untuk mengambil data dari portal berita Indonesia, yaitu Kompas dan Sindo News. Saya menentukan sub-kategori teknologi sebagai fokus pengambilan data dan berhasil mengumpulkan lebih dari 5000 artikel. Dari 5000 artikel tersebut, terdapat 9 kategori yang berbeda, dimana kategori Telco adalah kategori yang paling banyak muncul dan kategori advertorial tekno adalah kategori yang paling sedikit.
 
 ![hasil data collection](https://raw.githubusercontent.com/RamdaniTarjianto/TechSpace_SistemRekomendasi/master/images/final%20dataset.PNG)
